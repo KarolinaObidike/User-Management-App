@@ -10,7 +10,7 @@ It allows you to:
 - View your users
 - Enable/Disable your users
 - Test user login
-- Save and load users using CVS files as your database
+- Save and load users using CSV files as your database
 
 The system separates users into:
 - Active users
